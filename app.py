@@ -13,7 +13,7 @@ from flask import request, jsonify
 
 
 # Load Gemini API
-genai.configure(api_key=os.getenv("AIzaSyC7s-P2bd1uqxDf2ZpVEMdp3Q8_FnkW1tU"))
+genai.configure(api_key=os.getenv(""))
 model = genai.GenerativeModel('Gemini 2.0 Flash')
 
 load_dotenv()
