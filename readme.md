@@ -1,7 +1,5 @@
-Here's a sample `README.md` file for your AI-powered Cybersecurity Threat Detector project:
 
-```markdown
-# AI-powered Cybersecurity Threat Detector
+## AI-powered Cybersecurity Threat Detector
 
 ## Overview
 
